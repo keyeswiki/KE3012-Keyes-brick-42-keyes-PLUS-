@@ -158,15 +158,15 @@ F - 用于从板接收串行数据并将串行数据发送到板的串行监视
 
 实验器材
 
-keyes brick LED白发白模块\*1
+keyes brick LED白发白模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P 双头XH2.54连接线\*1
+3P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -216,15 +216,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 激光头传感器模块\*1
+keyes brick 激光头传感器模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -249,15 +249,15 @@ B连接单片机PWM口，-接GND。我们通过调节3个PWM值，控制LED元�
 
 实验器材
 
-keyes brick 插件RGB模块\*1
+keyes brick 插件RGB模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P 双头XH2.54连接线\*1
+4P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -300,15 +300,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 5V 单路继电器模块\*1
+keyes brick 5V 单路继电器模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -332,15 +332,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 有源蜂鸣器模块\*1
+keyes brick 有源蜂鸣器模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -364,15 +364,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 无源蜂鸣器模块\*1
+keyes brick 无源蜂鸣器模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P 双头XH2.54连接线\*1
+3P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -406,15 +406,15 @@ USB线\*1
 
 实验器材
 
-keyes brick按键传感器\*1
+keyes brick按键传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -452,15 +452,15 @@ USB线\*1
 
 实验器材
 
-keyes brick电容触摸传感器\*1
+keyes brick电容触摸传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -487,15 +487,15 @@ USB线\*1
 
 实验器材
 
-keyes brick干簧管模块\*1
+keyes brick干簧管模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -521,15 +521,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 霍尔传感器\*1
+keyes brick 霍尔传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P 双头XH2.54连接线\*1
+3P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -557,15 +557,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 倾斜模块传感器\*1
+keyes brick 倾斜模块传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -592,15 +592,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 碰撞传感器\*1
+keyes brick 碰撞传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -627,15 +627,15 @@ USB线\*1
 
 实验器材
 
-keyes brick人体红外热释电传感器\*1
+keyes brick人体红外热释电传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -669,15 +669,15 @@ USB线\*1
 
 实验器材
 
-keyes brick巡线传感器\*1
+keyes brick巡线传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -703,15 +703,15 @@ USB线\*1
 
 实验器材
 
-keyes brick避障传感器\*1
+keyes brick避障传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -753,13 +753,13 @@ D1 LED介于不亮与亮之间的零界点。
 
 keyes brick魔术光杯传感器\*2
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
 4P双头XH2.54连接线\*2
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -851,15 +851,15 @@ brightnessB大于0且小于1000
 
 实验器材
 
-keyes brick光折断传感器\*1
+keyes brick光折断传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -911,15 +911,15 @@ PushCounter不变
 
 实验器材
 
-keyes brick 旋转编码器模块\*1
+keyes brick 旋转编码器模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-5P双头XH2.54连接线\*1
+5P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -950,15 +950,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 敲击模块传感器\*1
+keyes brick 敲击模块传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P 双头XH2.54连接线\*1
+3P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -990,15 +990,15 @@ USB线\*1
 
 实验器材
 
-keyes brick HC-SR04超声波传感器\*1
+keyes brick HC-SR04超声波传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P 双头XH2.54连接线\*1
+4P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1024,17 +1024,17 @@ HC-SR04超声波传感器最大测试距离为3-4m，最小测试距离为2cm。
 
 实验器材
 
-keyes brick 红外接收传感器\*1
+keyes brick 红外接收传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P 双头XH2.54连接线\*1
+3P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
-JMP-1 17键 红外遥控\*1
+JMP-1 17键 红外遥控*1
 
 接线图
 
@@ -1066,15 +1066,15 @@ JMP-1 17键 红外遥控\*1
 
 实验器材
 
-keyes brick 18B20温度传感器\*1
+keyes brick 18B20温度传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1111,15 +1111,15 @@ USB线\*1
 
 实验器材
 
-keyes brick DHT11温湿度传感器\*1
+keyes brick DHT11温湿度传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1156,15 +1156,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 可调电位器模块\*1
+keyes brick 可调电位器模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1194,15 +1194,15 @@ USB线\*1
 
 实验器材
 
-keyes brick TEMT6000光线传感器\*1
+keyes brick TEMT6000光线传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1228,15 +1228,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 热敏电阻传感器\*1
+keyes brick 热敏电阻传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P 双头XH2.54连接线\*1
+3P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1263,15 +1263,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 麦克风声音传感器\*1
+keyes brick 麦克风声音传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1300,15 +1300,15 @@ USB线\*1
 
 实验器材
 
-keyes brick MQ-2 烟雾传感器\*1
+keyes brick MQ-2 烟雾传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P 双头XH2.54连接线\*1
+4P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1338,15 +1338,15 @@ USB线\*1
 
 实验器材
 
-keyes brick MQ-3 酒精传感器\*1
+keyes brick MQ-3 酒精传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P双头XH2.54连接线\*1
+4P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1373,15 +1373,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 摇杆模块传感器\*1
+keyes brick 摇杆模块传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-5P双头XH2.54连接线\*1
+5P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1409,15 +1409,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 手指测心跳模块\*1
+keyes brick 手指测心跳模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P 双头XH2.54连接线\*1
+3P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1447,15 +1447,15 @@ USB线\*1
 
 实验器材
 
-keyes brick ADXL345加速度传感器\*1
+keyes brick ADXL345加速度传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P双头XH2.54连接线\*1
+4P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1485,15 +1485,15 @@ USB线\*1
 
 实验器材
 
-keyes brick震动模块传感器\*1
+keyes brick震动模块传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1521,15 +1521,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 水滴水蒸气传感器\*1
+keyes brick 水滴水蒸气传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1555,15 +1555,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 土壤传感器\*1
+keyes brick 土壤传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1607,13 +1607,13 @@ USB线\*1
 
 实验器材
 
-keyes 伺服舵机\*1
+keyes 伺服舵机*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1658,15 +1658,15 @@ USB线\*1
 
 实验器材
 
-keyes brick 3231时钟模块\*1
+keyes brick 3231时钟模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P双头XH2.54连接线\*1
+4P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1693,15 +1693,15 @@ USB线\*1
 
 实验器材
 
-keyes brick TM1637 4位数码管模块\*1
+keyes brick TM1637 4位数码管模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P双头XH2.54连接线\*1
+4P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1803,15 +1803,15 @@ OX77
 
 实验器材
 
-keyes brick 8\*8点阵模块\*1
+keyes brick 8\*8点阵模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P双头XH2.54连接线\*1
+4P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1911,15 +1911,15 @@ USB线\*1
 
 实验器材
 
-keyes brick IIC 1602 蓝屏\*1
+keyes brick IIC 1602 蓝屏*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P双头XH2.54连接线\*1
+4P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1948,15 +1948,15 @@ oled是有机发光二极管，又称为有机点激光显示。OLED显示技术
 
 实验器材
 
-keyes brick IIC OLED模块\*1
+keyes brick IIC OLED模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P双头XH2.54连接线\*1
+4P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -1987,23 +1987,23 @@ USB线\*1
 
 实验器材
 
-keyes brick电机-水泵驱动模块\*1
+keyes brick电机-水泵驱动模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P双头XH2.54连接线\*1
+4P双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
-DC3-5V浇花小水泵+100MM连接线\*1
+DC3-5V浇花小水泵+100MM连接线*1
 
-浇花水管 内径6MM 外径8MM 1米\*1
+浇花水管 内径6MM 外径8MM 1米*1
 
-130电机+100MM连接线\*1
+130电机+100MM连接线*1
 
-电机桨\*1
+电机桨*1
 
 接线图
 
@@ -2045,17 +2045,17 @@ DC3-5V浇花小水泵+100MM连接线\*1
 
 实验器材
 
-keyes brick LED模块\*1
+keyes brick LED模块*1
 
-keyes brick 可调电位器模块\*1
+keyes brick 可调电位器模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
 3P 双头XH2.54连接线\*2
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -2083,17 +2083,17 @@ USB线\*1
 
 实验器材
 
-keyes brick TEMT6000光线传感器\*1
+keyes brick TEMT6000光线传感器*1
 
-keyes brick LED模块\*1
+keyes brick LED模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
 3P 双头XH2.54连接线\*2
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -2119,19 +2119,19 @@ USB线\*1
 
 实验器材
 
-keyes brick 旋转编码器模块\*1
+keyes brick 旋转编码器模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-keyes brick 插件RGB模块\*1
+keyes brick 插件RGB模块*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-5P双头XH2.54连接线\*1
+5P双头XH2.54连接线*1
 
-4P 双头XH2.54连接线\*1
+4P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -2157,19 +2157,19 @@ USB线\*1
 
 实验器材
 
-keyes brick 插件RGB模块\*1
+keyes brick 插件RGB模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-keyes brick 按键传感器\*1
+keyes brick 按键传感器*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P双头XH2.54连接线\*1
+4P双头XH2.54连接线*1
 
-3P 双头XH2.54连接线\*1
+3P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -2238,19 +2238,19 @@ PushCounte1为2
 
 实验器材
 
-keyes brick 插件RGB模块\*1
+keyes brick 插件RGB模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-keyes brick 热敏电阻传感器\*1
+keyes brick 热敏电阻传感器*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-4P双头XH2.54连接线\*1
+4P双头XH2.54连接线*1
 
-3P 双头XH2.54连接线\*1
+3P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -2278,17 +2278,17 @@ USB线\*1
 
 实验器材
 
-keyes brick 避障传感器\*1
+keyes brick 避障传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-keyes brick 有源蜂鸣器模块\*1
+keyes brick 有源蜂鸣器模块*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
 3P 双头XH2.54连接线\*2
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -2310,21 +2310,21 @@ USB线\*1
 
 实验器材
 
-keyes brick HC-SR04超声波传感器\*1
+keyes brick HC-SR04超声波传感器*1
 
-keyes brick 无源蜂鸣器模块\*1
+keyes brick 无源蜂鸣器模块*1
 
-keyes brick 插件RGB模块\*1
+keyes brick 插件RGB模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P 双头XH2.54连接线\*1
+3P 双头XH2.54连接线*1
 
 4P 双头XH2.54连接线\*2
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -2351,21 +2351,21 @@ USB线\*1
 
 实验器材
 
-keyes brick 有源蜂鸣器模块\*1
+keyes brick 有源蜂鸣器模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-keyes brick MQ-3 酒精传感器\*1
+keyes brick MQ-3 酒精传感器*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-IIC 1602 蓝屏\*1
+IIC 1602 蓝屏*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
 4P 双头XH2.54连接线\*2
 
-USB线\*1
+USB线*1
 
 接线图
 
@@ -2391,23 +2391,23 @@ USB线\*1
 
 实验器材
 
-keyes brick 土壤传感器\*1
+keyes brick 土壤传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-keyes brick 电机-水泵驱动模块\*1
+keyes brick 电机-水泵驱动模块*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-4P 双头XH2.54连接线\*1
+4P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
-DC3-5V浇花小水泵+100MM连接线\*1
+DC3-5V浇花小水泵+100MM连接线*1
 
-浇花水管 内径6MM 外径8MM 1米\*1
+浇花水管 内径6MM 外径8MM 1米*1
 
 接线图
 
@@ -2433,23 +2433,23 @@ DC3-5V浇花小水泵+100MM连接线\*1
 
 实验器材
 
-keyes brick 热敏电阻传感器\*1
+keyes brick 热敏电阻传感器*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-keyes brick 电机-水泵驱动模块\*1
+keyes brick 电机-水泵驱动模块*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
-3P双头XH2.54连接线\*1
+3P双头XH2.54连接线*1
 
-4P 双头XH2.54连接线\*1
+4P 双头XH2.54连接线*1
 
-USB线\*1
+USB线*1
 
-130电机+100MM连接线\*1
+130电机+100MM连接线*1
 
-电机桨\*1
+电机桨*1
 
 接线图
 
@@ -2473,39 +2473,39 @@ USB线\*1
 
 实验器材
 
-keyes brick LED白发白模块\*1
+keyes brick LED白发白模块*1
 
-keyes brick 按键传感器\*1
+keyes brick 按键传感器*1
 
-keyes brick DHT11温湿度传感器\*1
+keyes brick DHT11温湿度传感器*1
 
-keyes brick ADXL345加速度传感器\*1
+keyes brick ADXL345加速度传感器*1
 
-keyes brick 红外接收传感器\*1
+keyes brick 红外接收传感器*1
 
-keyes brick 摇杆模块传感器\*1
+keyes brick 摇杆模块传感器*1
 
-keyes brick HC-SR04超声波传感器\*1
+keyes brick HC-SR04超声波传感器*1
 
-keyes brick TEMT6000光线传感器\*1
+keyes brick TEMT6000光线传感器*1
 
-keyes brick 可调电位器模块\*1
+keyes brick 可调电位器模块*1
 
-keyes brick 插件RGB模块\*1
+keyes brick 插件RGB模块*1
 
-keyes UNO PLUS开发板\*1
+keyes UNO PLUS开发板*1
 
-传感器扩展板\*1
+传感器扩展板*1
 
 3P 双头XH2.54连接线\*6
 
 4P 双头XH2.54连接线\*3
 
-5P 双头XH2.54连接线\*1
+5P 双头XH2.54连接线*1
 
-JMP-1 17键 红外遥控\*1
+JMP-1 17键 红外遥控*1
 
-USB线\*1
+USB线*1
 
 接线图
 
